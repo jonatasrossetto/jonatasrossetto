@@ -1,4 +1,6 @@
 ### Hi there 👋
+I'm a software Enginner with C1 English level, TOEIC 965/990. Also I'm a computer science student with knowledge of Java, Spring Boot, NodeJS, Express, JavaScript, TypeScript, HTML, CSS, MySql, MongoDB, React and Angular. I have an BSc in Physics, a master and doctor degrees in Optoelectronics. As result of my scientific research I received an award from Petrobras for an optical fiber sensor proposal and authored 2 patents. I have a long time of experience as part time college professor. I also have more than 15 years of experience as a technical representative and as an administrator of a small sales enterprise with focus on the utilities segment (water, gas and eletricity).<br>
+I would be glad to contact with you.
 
 <!--
 **jonatasrossetto/jonatasrossetto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,4 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jonatasrossetto&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jonatasrossetto&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)  
+
+
+
