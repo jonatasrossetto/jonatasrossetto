@@ -1,6 +1,7 @@
 ### Hi there 👋
-I'm a computer science student with knowledge of Java, Spring Boot, NodeJS, Express, JavaScript, TypeScript, HTML, CSS, MySql, MongoDB, React and Angular. I have an BSc in Physics, a master and doctor degrees in Optoelectronics. As result of my scientific research I received an award from Petrobras for an optical fiber sensor proposal and authored 2 patents. I have a C1 English level, TOEIC 965/990. I also have a long time experience as part time college professor and more than 15 years of experience as a technical representative and as an administrator of a small sales business with focus on the utilities segment (water, gas and eletricity).<br>
-I would be glad to contact with you.
+I have a strong background in computer science and optoelectronics, with skills in various programming languages and frameworks, such as Java, Spring Boot, NodeJS, Express, JavaScript, TypeScript, HTML, CSS, MySql, MongoDB, React and Angular. I hold a BSc in Physics, a master's and a PhD in Optoelectronics. I have been recognized by Petrobras for my innovative optical fiber sensor proposal and I have two patents in this field. I am fluent in English, with a TOEIC score of 965/990. I also have teaching experience as a part-time college professor and extensive professional experience as a technical representative and an administrator of a small sales business in the utilities sector (water, gas and electricity).
+I look forward to hearing from you.
+
 
 <!--
 **jonatasrossetto/jonatasrossetto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
